@@ -16,7 +16,7 @@ function App() {
     style={{backgroundColor : bgColor}}>
       <h1 className="text-4xl">Change Background</h1>
       <div className="btns mb-10 text-3xl flex items-evenly justify-around  p-5 border-2 w-[80%]  ">
-        <button onClick={()=> changeBg('blue')} className="btn p-5 bg-blue-600 cursor-pointer border-2 border-black rounded-md  ">Blue</button>
+        <button onClick={()=> changeBg('blue')} className="btn p-5 bg-blue-600 cursor-pointer border-2 border-black rounded-md   ">Blue</button>
         <button onClick={()=> changeBg('red')} className="btn p-5 bg-red-600 cursor-pointer border-2 border-black rounded-md  ">Red</button>
         <button onClick={()=> changeBg('green')} className="btn p-5 bg-green-600 cursor-pointer border-2 border-black rounded-md  ">Green</button>
         <button onClick={()=> changeBg('yellow')} className="btn p-5 bg-yellow-600 cursor-pointer border-2 border-black rounded-md  ">Yellow</button>
