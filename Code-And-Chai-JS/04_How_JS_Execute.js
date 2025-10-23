@@ -28,7 +28,7 @@ console.log("Result 2:", result2); // Output: 12
 // +++++++++++++++++++++++++++++++++++++++++++
 // Theory
 // "When JavaScript executes code, it first creates a Global Execution Context. Then, in the Memory Phase, all variables are initialized with undefined and all function declarations are stored with their full code.
-// In the Execution Phase, variables are assigned real values and functions are executed.
+// In the Execution Phase, variables are assigned real values and functions are executed
 // Every time a function is called, a new Function Execution Context is created inside the Call Stack. It has its own memory and code execution thread. After the function finishes, the context is removed and control returns to the previous level."
 
 // +++++++++++++++++++++++++++++++++++
