@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <h1 className="text-4xl font-bold text-center bg-blue-300">Currency Converter</h1>
+    </div>
   )
 }
 
