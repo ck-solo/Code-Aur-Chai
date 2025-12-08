@@ -35,7 +35,7 @@ function App() {
     <>
       <div className="w-full max-w-md mx-auto shadow-md rounded-lg px-4 py-8 my-8 bg-gray-600">
         <h1 className="text-white text-center mb-4 font-semibold text-2xl">
-          Password Generator
+          Create Password
         </h1>
         <div className="flex shadow rounded-lg overflow-hidden mb-4  ">
           <input
