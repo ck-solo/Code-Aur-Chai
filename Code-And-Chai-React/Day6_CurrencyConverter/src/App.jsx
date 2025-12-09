@@ -55,7 +55,7 @@ const App = () => {
                                 onClick={swapCurrency}
                                 
                             >
-                                swap
+                                Swap
                             </button>
                         </div>
                         <div className="w-full mt-1 mb-4">
