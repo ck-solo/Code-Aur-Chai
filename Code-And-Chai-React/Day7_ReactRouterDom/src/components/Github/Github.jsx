@@ -77,7 +77,7 @@ function Github() {
 
         <div className="mt-6 text-sm text-gray-600">
           <span className="mr-4">Followers: {show.followers}</span>
-          <span className="mr-4">Following: {show.following}</span>
+          <span className="mr-4">Followings: {show.following}</span>
         </div>
       </div>
     </div>
