@@ -12,7 +12,7 @@ let heroPower = {
     spiderman: "sling",
 
     getSpiderPower: function(){
-        console.log(`Spidy power is ${this.spiderman}`);
+        console.log(`Spidy power is a ${this.spiderman}`);
     }
 }
 
